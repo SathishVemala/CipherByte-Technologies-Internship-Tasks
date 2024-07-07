@@ -108,8 +108,6 @@ The actual output will depend on the user's guesses and the random numbers gener
 BankY is a simulation of a basic banking system that allows users to create accounts, deposit and withdraw funds, and transfer funds between accounts.
 This project provides an opportunity to explore fundamental concepts of object-oriented programming, data persistence using files or databases, and basic transaction handling.
 
-𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞: https://sathishvemala.github.io/BankY/
-
 # Bank Simulation Project
 
 ## Project Overview
@@ -209,5 +207,7 @@ Choose an option: 6
 ## Conclusion
 
 This project demonstrates a simple banking system implemented in Java with object serialization to persist data. Users can create accounts, deposit and withdraw funds, transfer funds between accounts, and view account information through a command-line interface. The system ensures data persistence by saving and loading account information to and from a file.
+
+𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞: https://sathishvemala.github.io/BankY/
 
 
